@@ -1,0 +1,14 @@
+C:\repos\fun\Simple turn based fight application\Simple turn based fight application\bin\Debug\net8.0\Simple turn based fight application.exe
+C:\repos\fun\Simple turn based fight application\Simple turn based fight application\bin\Debug\net8.0\Simple turn based fight application.deps.json
+C:\repos\fun\Simple turn based fight application\Simple turn based fight application\bin\Debug\net8.0\Simple turn based fight application.runtimeconfig.json
+C:\repos\fun\Simple turn based fight application\Simple turn based fight application\bin\Debug\net8.0\Simple turn based fight application.dll
+C:\repos\fun\Simple turn based fight application\Simple turn based fight application\bin\Debug\net8.0\Simple turn based fight application.pdb
+C:\repos\fun\Simple turn based fight application\Simple turn based fight application\obj\Debug\net8.0\Simple turn based fight application.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\fun\Simple turn based fight application\Simple turn based fight application\obj\Debug\net8.0\Simple turn based fight application.AssemblyInfoInputs.cache
+C:\repos\fun\Simple turn based fight application\Simple turn based fight application\obj\Debug\net8.0\Simple turn based fight application.AssemblyInfo.cs
+C:\repos\fun\Simple turn based fight application\Simple turn based fight application\obj\Debug\net8.0\Simple turn based fight application.csproj.CoreCompileInputs.cache
+C:\repos\fun\Simple turn based fight application\Simple turn based fight application\obj\Debug\net8.0\Simple turn based fight application.dll
+C:\repos\fun\Simple turn based fight application\Simple turn based fight application\obj\Debug\net8.0\refint\Simple turn based fight application.dll
+C:\repos\fun\Simple turn based fight application\Simple turn based fight application\obj\Debug\net8.0\Simple turn based fight application.pdb
+C:\repos\fun\Simple turn based fight application\Simple turn based fight application\obj\Debug\net8.0\Simple turn based fight application.genruntimeconfig.cache
+C:\repos\fun\Simple turn based fight application\Simple turn based fight application\obj\Debug\net8.0\ref\Simple turn based fight application.dll
