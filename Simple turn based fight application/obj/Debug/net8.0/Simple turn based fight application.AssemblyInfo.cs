@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Simple turn based fight application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43fce9b8a085483a00f47f178bde0453cee45209")]
 [assembly: System.Reflection.AssemblyProductAttribute("Simple turn based fight application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Simple turn based fight application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

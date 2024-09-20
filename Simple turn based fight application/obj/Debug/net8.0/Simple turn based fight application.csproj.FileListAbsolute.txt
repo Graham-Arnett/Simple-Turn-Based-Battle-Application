@@ -12,3 +12,4 @@ C:\repos\fun\Simple turn based fight application\Simple turn based fight applica
 C:\repos\fun\Simple turn based fight application\Simple turn based fight application\obj\Debug\net8.0\Simple turn based fight application.pdb
 C:\repos\fun\Simple turn based fight application\Simple turn based fight application\obj\Debug\net8.0\Simple turn based fight application.genruntimeconfig.cache
 C:\repos\fun\Simple turn based fight application\Simple turn based fight application\obj\Debug\net8.0\ref\Simple turn based fight application.dll
+C:\repos\fun\Simple turn based fight application\Simple turn based fight application\obj\Debug\net8.0\Simple turn based fight application.sourcelink.json
